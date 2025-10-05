@@ -1,0 +1,28 @@
+{
+    "records": [
+        {
+            "state": "Andhra Pradesh",
+            "district": "Chittor",
+            "market": "Mulakalacheruvu",
+            "commodity": "Tomato",
+            "variety": "Local",
+            "grade": "FAQ",
+            "arrival_date": "04\/10\/2025",
+            "min_price": "1000",
+            "max_price": "2500",
+            "modal_price": "1900"
+        },
+        {
+            "state": "Andhra Pradesh",
+            "district": "Chittor",
+            "market": "Palamaner",
+            "commodity": "Cabbage",
+            "variety": "Cabbage",
+            "grade": "FAQ",
+            "arrival_date": "04\/10\/2025",
+            "min_price": "500",
+            "max_price": "700",
+            "modal_price": "600"
+        }
+    ]
+}
